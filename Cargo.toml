@@ -1,0 +1,9 @@
+[package]
+name = "SteamVRSwitcher"
+version = "0.1.0"
+authors = ["EusthEnoptEron <umikarayattekita@yahoo.co.jp>"]
+
+[dependencies]
+winreg = "0.4"
+getopts = "0.2.14"
+json = "0.11.5"
